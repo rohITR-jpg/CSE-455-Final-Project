@@ -10,7 +10,7 @@ Our strategy varied throughout the project. At first, we were trying to use a le
 # Dataset
 We got our dataset from the data provided by the Kaggle Competition. This included the test/train images and the text file containing the names of the birds. There are 10,000 images in the test directory and there are approximately 38,000 images in the train directory. The text file contains 555 different bird species names.
 # Graphs
-(https://user-images.githubusercontent.com/60229228/172990003-e9471980-9812-4d5d-b42b-27b7235d0f4d.png)
+![alt text](https://user-images.githubusercontent.com/60229228/172990003-e9471980-9812-4d5d-b42b-27b7235d0f4d.png)
 # Inspiration from Previous Work![losses]
 
 We drew inspiration from the Transfer Learning to Pytorch Tutorials provided on the course website to get a better understanding of working with PyTorch in Google Colab. For example, after reading about how the dataset definition worked, we decided to do something similar in the process of connecting our dataset to PyTorch. Our train was fairly straightforward and based on methods we've created for classes like CSE 446. We processed data in batches, took forward and backward steps while calculating loss, and updated model architecture every epoch.
