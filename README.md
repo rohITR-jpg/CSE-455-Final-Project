@@ -11,6 +11,7 @@ Our strategy varied throughout the project. At first, we were trying to use a le
 We got our dataset from the data provided by the Kaggle Competition. This included the test/train images and the text file containing the names of the birds. There are 10,000 images in the test directory and there are approximately 38,000 images in the train directory. The text file contains 555 different bird species names.
 # Graphs
 The following graph represents the decline in loss over time as the model was training
+
 ![Loss vs Iters](https://user-images.githubusercontent.com/60229228/172990003-e9471980-9812-4d5d-b42b-27b7235d0f4d.png)
 # Inspiration from Previous Work![losses]
 
