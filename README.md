@@ -4,7 +4,7 @@ We are trying to solve the I Was Busy Thinkin' 'Bout Birds Kaggle Competition. W
 
 Link to Kaggle Competition: https://www.kaggle.com/competitions/birds22sp/overview
 
-Our Overall Rank: 11
+Our Overall Rank: 8
 # Our Strategy
 
 # Dataset
