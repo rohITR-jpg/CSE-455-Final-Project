@@ -19,6 +19,10 @@ The following graph represents the decline in loss over time as the model was tr
 
 ![Loss vs Iters](https://user-images.githubusercontent.com/60229228/172990003-e9471980-9812-4d5d-b42b-27b7235d0f4d.png)
 
+
+![Video Explanation](https://user-images.githubusercontent.com/60229228/172994218-a6917caa-2c38-4a8a-af51-64a91eb90d4d.mp4)
+
+
 # Inspiration from Previous Work
 
 We drew inspiration from the Transfer Learning to Pytorch Tutorials provided on the course website to get a better understanding of working with PyTorch in Google Colab. For example, after reading about how the dataset definition worked, we decided to do something similar in the process of connecting our dataset to PyTorch. Our train was fairly straightforward and based on methods we've created for classes like CSE 446. We processed data in batches, took forward and backward steps while calculating loss, and updated model architecture every epoch.
