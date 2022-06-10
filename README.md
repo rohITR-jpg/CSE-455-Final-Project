@@ -1,6 +1,9 @@
 # CSE-455-Final-Project
 By Rohit Ramesh and Akhilesh Varanasi
 
+# Video Explanation
+
+![Video Explanation](https://user-images.githubusercontent.com/60229228/172994218-a6917caa-2c38-4a8a-af51-64a91eb90d4d.mp4)
 
 # What are we trying to solve?
 We are trying to solve the I Was Busy Thinkin' 'Bout Birds Kaggle Competition. We are trying to achieve a high classification accuracy in classifying different bird species.
@@ -18,10 +21,6 @@ We got our dataset from the data provided by the Kaggle Competition. This includ
 The following graph represents the decline in loss over time as the model was training
 
 ![Loss vs Iters](https://user-images.githubusercontent.com/60229228/172990003-e9471980-9812-4d5d-b42b-27b7235d0f4d.png)
-
-
-![Video Explanation](https://user-images.githubusercontent.com/60229228/172994218-a6917caa-2c38-4a8a-af51-64a91eb90d4d.mp4)
-
 
 # Inspiration from Previous Work
 
